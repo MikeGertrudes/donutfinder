@@ -1,0 +1,55 @@
+{
+  "name": "donutfinder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "ci": "npm test",
+    "coverage": "nyc report --reporter=html",
+    "test": "nyc tape '{,!(node_modules)/**/}*.spec.js'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MikeGertrudes/donutfinder.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MikeGertrudes/donutfinder/issues"
+  },
+  "homepage": "https://github.com/MikeGertrudes/donutfinder#readme",
+  "dependencies": {
+    "aws-sdk": "^2.211.0",
+    "compression": "^1.7.2",
+    "express": "^4.16.3",
+    "fast-deep-equal": "^1.1.0",
+    "lodash": "^4.17.5",
+    "moment": "^2.21.0",
+    "request": "^2.85.0"
+  },
+  "devDependencies": {
+    "husky": "^0.15.0-rc.13",
+    "nyc": "^11.6.0",
+    "proxyquire": "^2.0.1",
+    "sinon": "^4.4.9",
+    "supertest": "^3.0.0",
+    "tape": "^4.9.0"
+  },
+  "nyc": {
+    "include": [
+      "*.js",
+      "src/**/*.js"
+    ],
+    "exclude": [
+      "node_modules",
+      "index.spec.js",
+      "**/**/*.spec.js"
+    ]
+  },
+  "husky": {
+    "hooks": {
+      "pre-push": "npm test"
+    }
+  }
+}

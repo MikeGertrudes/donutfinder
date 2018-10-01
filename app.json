@@ -1,0 +1,11 @@
+{
+  "name": "donutfinder",
+  "repository": "https://github.com/MikeGertrudes/donutfinder.git",
+  "environments": {
+    "test": {
+      "scripts": {
+        "test": "npm run ci"
+      }
+    }
+  }
+}

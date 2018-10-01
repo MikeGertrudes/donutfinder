@@ -1,0 +1,658 @@
+{
+  "NYC": {
+    "airportCode": "NYC",
+    "city": "New York",
+    "state": "NY",
+    "country": "US",
+    "lat": 40.6974881,
+    "lng": -73.979681,
+    "meta": {
+      "highlights": [
+        "It's the center of the world.",
+        "Incredible food: Michelin restaurants to hot dog stands.",
+        "You can get around easily and cheaply with the subway."
+      ],
+      "bestTimeToGo": "The summer is alive in New York. Tons of public events, sunbathing in the parks and rooftop bars.",
+      "quotes": [{
+        "quote": "You'll always have New York. Come back often.",
+        "author": "Mike"
+      }]
+    }
+  },
+  "LAX": {
+    "airportCode": "LAX",
+    "city": "Los Angeles",
+    "state": "CA",
+    "country": "US",
+    "lat": 34.0201597,
+    "lng": -118.6926138,
+    "meta": {
+      "highlights": [
+      ],
+      "bestTimeToGo": "",
+      "quotes": [
+      ]
+    }
+  },
+  "LAS": {
+    "airportCode": "LAS",
+    "city": "Las Vegas",
+    "state": "NV",
+    "country": "US",
+    "lat": 36.1246721,
+    "lng": -115.4558801,
+    "meta": {
+      "highlights": [
+        "Wild times to be had here. Hold on to your wallet.",
+        "Check out the old Las Vegas, it's got a lot of charm.",
+        "Some of the best shows in the world.",
+        "Not far from some great parks, including the Grand Canyon."
+      ],
+      "bestTimeToGo": "Anytime",
+      "quotes": [{
+        "quote": "No place like it in the world.",
+        "author": "Mike"
+      }]
+    }
+  },
+  "BOS": {
+    "airportCode": "BOS",
+    "city": "Boston",
+    "state": "MA",
+    "country": "US",
+    "lat": 42.3142643,
+    "lng": -71.1107126,
+    "meta": {
+      "highlights": [
+        "Be sure to watch a Red Sox game at historic Fenway Park.",
+        "Take a date night out to the Italian neighborhood.",
+        "Davis Square in Somerville is a chill place",
+        "Hang out for a few hours on the grass in the Boston Common.",
+        "Follow the red lines around the historic downtown."
+      ],
+      "bestTimeToGo": "Summer, during baseball season.",
+      "quotes": [{
+        "quote": "A sleepier town than New York, it has a ton of charm.",
+        "author": "Mike"
+      }]
+    }
+  },
+  "MIA": {
+    "airportCode": "MIA",
+    "city": "Miami",
+    "state": "FL",
+    "country": "US",
+    "lat": 25.7823404,
+    "lng": -80.3695434,
+    "meta": {
+      "highlights": [
+      ],
+      "bestTimeToGo": "",
+      "quotes": [
+      ]
+    }
+  },
+  "CHI": {
+    "airportCode": "CHI",
+    "city": "Chicago",
+    "state": "IL",
+    "country": "US",
+    "lat": 41.8333925,
+    "lng": -88.0121454,
+    "meta": {
+      "highlights": [
+      ],
+      "bestTimeToGo": "",
+      "quotes": [
+      ]
+    }
+  },
+  "SFO": {
+    "airportCode": "SFO",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "US",
+    "lat": 37.7576171,
+    "lng": -122.5776837,
+    "meta": {
+      "highlights": [
+      ],
+      "bestTimeToGo": "",
+      "quotes": [
+      ]
+    }
+  },
+  "AUS": {
+    "airportCode": "AUS",
+    "city": "Austin",
+    "state": "TX",
+    "country": "US",
+    "lat": 30.3074639,
+    "lng": -98.0329035,
+    "meta": {
+      "highlights": [
+        "Some of the best barbeque in the world.",
+        "Barton Springs is a community pool based in a natural hot spring.",
+        "It's motto is \"Keep Austin Weird\"."
+      ],
+      "bestTimeToGo": "",
+      "quotes": [{
+        "quote": "If you have a car or Uber, be sure to head out of Austin to check out the Salt Lick.",
+        "author": "Mike"
+      }]
+    }
+  },
+  "FLL": {
+    "airportCode": "FLL",
+    "city": "Fort Lauderdale",
+    "state": "FL",
+    "country": "US",
+    "lat": 26.1410957,
+    "lng": -80.2154356,
+    "meta": {
+      "highlights": [
+        "Often cheaper than Miami to fly into.",
+        "Great beaches.",
+        "Lots of mansions navigated to with canals."
+      ],
+      "bestTimeToGo": "Late winter, early spring.",
+      "quotes": [{
+        "quote": "A bargain destination, great getaway from the Northeast.",
+        "author": "Mike"
+      }]
+    }
+  },
+  "DEN": {
+    "airportCode": "DEN",
+    "city": "Denver",
+    "state": "CO",
+    "country": "US",
+    "lat": 39.7629979,
+    "lng": -105.4141709,
+    "meta": {
+      "highlights": [
+      ],
+      "bestTimeToGo": "",
+      "quotes": [
+      ]
+    }
+  },
+  "ATL": {
+    "airportCode": "ATL",
+    "city": "Atlanta",
+    "state": "GA",
+    "country": "US",
+    "lat": 33.7673979,
+    "lng": -84.7001044,
+    "meta": {
+      "highlights": [
+      ],
+      "bestTimeToGo": "",
+      "quotes": [
+      ]
+    }
+  },
+  "DCA": {
+    "airportCode": "DCA",
+    "city": "Washington, D.C.",
+    "state": "DC",
+    "country": "US",
+    "lat": 38.8935132,
+    "lng": -77.1543167,
+    "meta": {
+      "highlights": [
+      ],
+      "bestTimeToGo": "",
+      "quotes": [
+      ]
+    }
+  },
+  "MSY": {
+    "airportCode": "MSY",
+    "city": "New Orleans",
+    "state": "LA",
+    "country": "US",
+    "lat": 30.0318145,
+    "lng": -90.4416438,
+    "meta": {
+      "highlights": [
+      ],
+      "bestTimeToGo": "",
+      "quotes": [
+      ]
+    }
+  },
+  "DAL": {
+    "airportCode": "DAL",
+    "city": "Dallas",
+    "state": "TX",
+    "country": "US",
+    "lat": 32.819416,
+    "lng": -97.2919835,
+    "meta": {
+      "highlights": [
+      ],
+      "bestTimeToGo": "",
+      "quotes": [
+      ]
+    }
+  },
+  "SLC": {
+    "airportCode": "SLC",
+    "city": "Salt Lake City",
+    "state": "UT",
+    "country": "US",
+    "lat": 40.7752524,
+    "lng": -112.480909,
+    "meta": {
+      "highlights": [
+        "Great coffee scene here.",
+        "A short drive to the Great Salt Flats, they look like a field of snow.",
+        "Extremely picturesque with mountains surrounding it."
+      ],
+      "bestTimeToGo": "Winter for skiiing, springtime.",
+      "quotes": [{
+        "quote": "If you're a coffee fan, be sure to check out Publik Coffee Roaster. It's pretty hip.",
+        "author": "Mike"
+      }]
+    }
+  },
+  "STL": {
+    "airportCode": "STL",
+    "city": "St. Louis",
+    "state": "MO",
+    "country": "US",
+    "lat": 38.6527663,
+    "lng": -90.5236451,
+    "meta": {
+      "highlights": [
+      ],
+      "bestTimeToGo": "",
+      "quotes": [
+      ]
+    }
+  },
+  "SEA": {
+    "airportCode": "SEA",
+    "city": "Seattle",
+    "state": "WA",
+    "country": "US",
+    "lat": 47.6126874,
+    "lng": -122.6222427,
+    "meta": {
+      "highlights": [
+      ],
+      "bestTimeToGo": "",
+      "quotes": [
+      ]
+    }
+  },
+  "DTW": {
+    "airportCode": "DTW",
+    "city": "Detroit",
+    "state": "MI",
+    "country": "US",
+    "lat": 42.3513464,
+    "lng": -83.6596252,
+    "meta": {
+      "highlights": [
+      ],
+      "bestTimeToGo": "",
+      "quotes": [
+      ]
+    }
+  },
+  "MCO": {
+    "airportCode": "MCO",
+    "city": "Orlando",
+    "state": "FL",
+    "country": "US",
+    "lat": 28.4808817,
+    "lng": -81.6489376,
+    "meta": {
+      "highlights": [
+      ],
+      "bestTimeToGo": "",
+      "quotes": [
+      ]
+    }
+  },
+  "PHX": {
+    "airportCode": "PHX",
+    "city": "Phoenix",
+    "state": "AZ",
+    "country": "US",
+    "lat": 33.6041514,
+    "lng": -112.6854905,
+    "meta": {
+      "highlights": [
+      ],
+      "bestTimeToGo": "",
+      "quotes": [
+      ]
+    }
+  },
+  "HOU": {
+    "airportCode": "HOU",
+    "city": "Houston",
+    "state": "TX",
+    "country": "US",
+    "lat": 29.8124453,
+    "lng": -96.5224827,
+    "meta": {
+      "highlights": [
+      ],
+      "bestTimeToGo": "",
+      "quotes": [
+      ]
+    }
+  },
+  "MSP": {
+    "airportCode": "MSP",
+    "city": "Minneapolis",
+    "state": "MN",
+    "country": "US",
+    "lat": 44.9706114,
+    "lng": -93.4015613,
+    "meta": {
+      "highlights": [
+      ],
+      "bestTimeToGo": "",
+      "quotes": [
+      ]
+    }
+  },
+  "MEM": {
+    "airportCode": "MEM",
+    "city": "Memphis",
+    "state": "TN",
+    "country": "US",
+    "lat": 35.1240237,
+    "lng": -91.0919276,
+    "meta": {
+      "highlights": [
+      ],
+      "bestTimeToGo": "",
+      "quotes": [
+      ]
+    }
+  },
+  "PVD": {
+    "airportCode": "PVD",
+    "city": "Providence",
+    "state": "RI",
+    "country": "US",
+    "lat": 41.8169074,
+    "lng": -71.5612637,
+    "meta": {
+      "highlights": [
+      ],
+      "bestTimeToGo": "",
+      "quotes": [
+      ]
+    }
+  },
+  "YYZ": {
+    "airportCode": "YYZ",
+    "city": "Toronto",
+    "state": "ON",
+    "country": "CA",
+    "lat": 43.6568775,
+    "lng": -79.32085,
+    "meta": {
+      "highlights": [
+      ],
+      "bestTimeToGo": "",
+      "quotes": [
+      ]
+    }
+  },
+  "YUL": {
+    "airportCode": "YUL",
+    "city": "Montreal",
+    "state": "QC",
+    "country": "CA",
+    "lat": 45.5581968,
+    "lng": -73.8703867,
+    "meta": {
+      "highlights": [
+      ],
+      "bestTimeToGo": "",
+      "quotes": [
+      ]
+    }
+  },
+  "CLT": {
+    "airportCode": "CLT",
+    "city": "Charlotte",
+    "state": "NC",
+    "country": "US",
+    "lat": 35.2033533,
+    "lng": -80.9799145,
+    "meta": {
+      "highlights": [
+      ],
+      "bestTimeToGo": "",
+      "quotes": [
+      ]
+    }
+  },
+  "CHS": {
+    "airportCode": "CHS",
+    "city": "Charleston",
+    "state": "SC",
+    "country": "US",
+    "lat": 32.8212559,
+    "lng": -80.1105638,
+    "meta": {
+      "highlights": [
+      ],
+      "bestTimeToGo": "",
+      "quotes": [
+      ]
+    }
+  },
+  "SAV": {
+    "airportCode": "SAV",
+    "city": "Savannah",
+    "state": "GA",
+    "country": "US",
+    "lat": 32.0390575,
+    "lng": -81.3403644,
+    "meta": {
+      "highlights": [
+      ],
+      "bestTimeToGo": "",
+      "quotes": [
+      ]
+    }
+  },
+  "PDX": {
+    "airportCode": "PDX",
+    "city": "Portland",
+    "state": "OR",
+    "country": "US",
+    "lat": 45.5435634,
+    "lng": -122.7945063,
+    "meta": {
+      "highlights": [
+      ],
+      "bestTimeToGo": "",
+      "quotes": [
+      ]
+    }
+  },
+  "BZN": {
+    "airportCode": "BZN",
+    "city": "Bozeman",
+    "state": "MT",
+    "country": "US",
+    "lat": 45.679605,
+    "lng": -111.1209419,
+    "meta": {
+      "highlights": [
+      ],
+      "bestTimeToGo": "",
+      "quotes": [
+      ]
+    }
+  },
+  "JAC": {
+    "airportCode": "JAC",
+    "city": "Jackson Hole",
+    "state": "WY",
+    "country": "US",
+    "lat": 43.4745488,
+    "lng": -110.793107,
+    "meta": {
+      "highlights": [
+      ],
+      "bestTimeToGo": "",
+      "quotes": [
+      ]
+    }
+  },
+  "BIL": {
+    "airportCode": "BIL",
+    "city": "Billings",
+    "state": "MT",
+    "country": "US",
+    "lat": 45.7820178,
+    "lng": -108.6337245,
+    "meta": {
+      "highlights": [
+      ],
+      "bestTimeToGo": "",
+      "quotes": [
+      ]
+    }
+  },
+  "SJU": {
+    "airportCode": "SJU",
+    "city": "San Juan",
+    "state": "PR",
+    "country": "US",
+    "lat": 18.3893875,
+    "lng": -66.1305131,
+    "meta": {
+      "highlights": [
+      ],
+      "bestTimeToGo": "",
+      "quotes": [
+      ]
+    }
+  },
+  "TPA": {
+    "airportCode": "TPA",
+    "city": "Tampa",
+    "state": "FL",
+    "country": "US",
+    "lat": 27.9947147,
+    "lng": -82.5943667,
+    "meta": {
+      "highlights": [
+      ],
+      "bestTimeToGo": "",
+      "quotes": [
+      ]
+    }
+  },
+  "JAX": {
+    "airportCode": "JAX",
+    "city": "Jacksonville",
+    "state": "FL",
+    "country": "US",
+    "lat": 30.345284,
+    "lng": -81.9632999,
+    "meta": {
+      "highlights": [
+      ],
+      "bestTimeToGo": "",
+      "quotes": [
+      ]
+    }
+  },
+  "SAN": {
+    "airportCode": "SAN",
+    "city": "San Diego",
+    "state": "CA",
+    "country": "US",
+    "lat": 32.8248175,
+    "lng": -117.3891704,
+    "meta": {
+      "highlights": [
+      ],
+      "bestTimeToGo": "",
+      "quotes": [
+      ]
+    }
+  },
+  "MCI": {
+    "airportCode": "MCI",
+    "city": "Kansas City",
+    "state": "MO",
+    "country": "US",
+    "lat": 32.8248175,
+    "lng": -117.3891704,
+    "meta": {
+      "highlights": [
+      ],
+      "bestTimeToGo": "",
+      "quotes": [
+      ]
+    }
+  },
+  "OKC": {
+    "airportCode": "OKC",
+    "city": "Oklahoma City",
+    "state": "OK",
+    "country": "US",
+    "lat": 35.4828833,
+    "lng": -97.7593881,
+    "meta": {
+      "highlights": [
+      ],
+      "bestTimeToGo": "",
+      "quotes": [
+      ]
+    }
+  },
+  "SAT": {
+    "airportCode": "SAT",
+    "city": "San Antonio",
+    "state": "TX",
+    "country": "US",
+    "lat": 29.4817349,
+    "lng": -98.7945977,
+    "meta": {
+      "highlights": [
+      ],
+      "bestTimeToGo": "",
+      "quotes": [
+      ]
+    }
+  },
+  "PHL": {
+    "airportCode": "PHL",
+    "city": "Philadelphia",
+    "state": "PA",
+    "country": "US",
+    "lat": 29.4817349,
+    "lng": -98.7945977,
+    "meta": {
+      "highlights": [
+      ],
+      "bestTimeToGo": "",
+      "quotes": [
+      ]
+    }
+  },
+  "BOI": {
+    "airportCode": "BOI",
+    "city": "Boise",
+    "state": "ID",
+    "country": "US",
+    "lat": 43.6009692,
+    "lng": -116.3739825
+  }
+}

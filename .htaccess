@@ -1,0 +1,7 @@
+AddType image/svg+xml svg
+AddType image/svg+xml svgz
+AddEncoding x-gzip .svgz
+
+RewriteEngine on
+RewriteCond /%{REQUEST_FILENAME}.html -f
+RewriteRule ^([a-zA-Z0-9_-\s]+)/$ /$1.html
