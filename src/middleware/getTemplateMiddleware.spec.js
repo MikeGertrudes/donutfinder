@@ -84,7 +84,6 @@ tape.test('getTemplateMiddleware successfully', t => {
   setTimeout(() => {
     t.ok(mock.res.locals.html)
 
-console.error(mock.res.locals.html)
     t.ok(mock.res.locals.html.includes('<title>Find Cheap Tasty Donuts from Salt Lake City from as little as $1</title>'))
 
     t.equal(mock.next.callCount, 1)

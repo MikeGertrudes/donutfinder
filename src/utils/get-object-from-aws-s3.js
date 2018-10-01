@@ -1,6 +1,6 @@
 const AWS = require('aws-sdk')
 
-const s3 = new AWS.S3({httpOptions: { timeout: 1000 }})
+const s3 = new AWS.S3({httpOptions: { timeout: 200 }})
 
 const getObjectFromAWSS3 = resource => new Promise((resolve, reject) => {
   s3
